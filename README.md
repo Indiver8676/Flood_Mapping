@@ -62,7 +62,7 @@ The model used the following conditioning factors (derived mainly from SRTM 30 m
 
 ## 7. Limitations
 
-The 30 m resolution of the SRTM DEM was the main limitation, as it could not fully capture micro-topographic variations that influence flooding in this low-lying terrain. This limitation directly motivated subsequent work using UAV-derived high-resolution DEM and HEC-RAS 2D hydrodynamic modelling at the North Eastern Space Applications Centre (NESAC).
+The 30 m resolution of the SRTM DEM was the main limitation, as it could not fully capture micro-topographic variations that influence flooding in this low-lying terrain.
 
 ## 8. Repository Contents
 
