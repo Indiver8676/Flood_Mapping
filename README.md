@@ -1,4 +1,4 @@
-# Flood Susceptibility, Risk and Social Vulnerability Mapping of Alappuzha District, Kerala
+# Flood Risk Mapping in Coastal Kerala: A Case Study of Alappuzha District, India
 
 **Author:** Indiver Kaushik  
 **Institution:** University of Calicut  
@@ -68,21 +68,31 @@ The 30 m resolution of the SRTM DEM was the main limitation, as it could not ful
 
 - Jupyter notebooks covering the full workflow (data preparation, multicollinearity, model training, hyperparameter tuning, and mapping)
 - Output maps and accuracy figures
-- This README
 
-## 9. How to Use
+  9. How to Use
 
-1. Clone the repository  
-2. Open the notebooks in order  
-3. Follow the workflow from data preparation to final model
+To explore and reproduce the analysis:
 
-## 10. Citation
+1. Clone or download this repository.
+2. Install the required Python libraries and dependencies.
+3. Obtain the necessary input datasets.
+4. Open the Jupyter notebooks in the prescribed sequence.
+5. Follow the documented workflow, from geospatial data preparation and exploratory analysis to Random Forest modelling and final flood susceptibility mapping.
 
-If you use this work, please cite:
+Note: Input datasets may need to be downloaded separately. Refer to the individual notebooks for data preparation details.
 
-Kaushik, I. (2026). Flood Susceptibility Mapping of Alappuzha District, Kerala using Random Forest and Multi-Parameter DEM Analysis. GitHub repository. https://github.com/Indiver8676/Flood_Mapping
+10. Citation
 
-## 11. Contact
+If you use this work in academic research or build upon its methodology, please cite:
 
-Indiver Kaushik  
+Kaushik, I. (2026). Flood Susceptibility Mapping of Alappuzha District, Kerala using Random Forest and Multi-Parameter DEM Analysis. GitHub repository.
+
+https://github.com/Indiver8676/Flood_Mapping
+
+11. Contact
+
+Indiver Kaushik
+
 Email: indiver.geo@gmail.com
+
+GitHub: https://github.com/Indiver8676
